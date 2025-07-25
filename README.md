@@ -82,15 +82,9 @@
 <div>
   <h3 style="color: #00FF9D; border-bottom: 2px solid #1F2937; padding-bottom: 8px;">📊 GitHub Stats</h3>
   
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <!-- GitHub Stats Card -->
+  <div align="center" style="margin-top: 20px;">
+    <!-- Only GitHub Stats Card -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jahongircoder456&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9D&icon_color=00D1FF&text_color=E5E7EB"/>
-    
-    <!-- Animated Donut Chart -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahongircoder456&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF9D&text_color=E5E7EB&langs_count=6&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Animated Donut Chart"/>
-    
-    <!-- Streak Stats -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahongircoder456&theme=dark&hide_border=true&background=0D1117&stroke=00FF9D&ring=00D1FF&fire=00D1FF&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=8B949E"/>
   </div>
 </div>
 
